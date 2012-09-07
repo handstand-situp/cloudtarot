@@ -1,0 +1,4 @@
+cloudtarot
+==========
+
+cloud computing tarot
